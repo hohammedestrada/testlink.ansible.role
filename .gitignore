@@ -1,0 +1,13 @@
+# vagrant
+.vagrant
+ubuntu-*-console.log
+
+# ansible
+ansible.cfg
+setup.retry
+roles/
+
+# docker
+tests/output.*.log
+builds/*/outlog.log
+build_result*

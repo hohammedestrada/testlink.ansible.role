@@ -1,0 +1,8 @@
+# vagrant
+Vagrantfile
+
+# ansible
+ansible.cfg
+ansible-retry
+tests/Dockerfile.ubuntu14.04
+tests/output.*.log
