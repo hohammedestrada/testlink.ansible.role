@@ -5,7 +5,7 @@ setup_local_database: true
 
 # TestLink
 testlink_tarball_version: '1.9.14'
-testlink_tarball_url: 'https://downloads.sourceforge.net/projects/testlink/files/TestLink%201.9/TestLink%201.9.14/testlink-1.9.14.tar.gz'
+testlink_tarball_url: 'https://sourceforge.net/projects/testlink/files/TestLink%201.9/TestLink%201.9.14/testlink-1.9.14.tar.gz/download'
 testlink_tarball_md5: '7183c30133fecc18c8074142016b6a44'
 testlink_var_path: '/var/testlink'
 testlink_db_name: 'testlinkdb'
